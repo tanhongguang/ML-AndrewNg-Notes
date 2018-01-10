@@ -22,7 +22,7 @@ Including assignments and notes, notes are WIP.
 You can read it by Typora or any other similar markdown editor.
 
 
-## 阅读及编辑
+## Read
 
 1. **在线阅读地址**：http://scruel.gitee.io/ml-andrewng-notes/
 2. 直接在 GitHub Page 上阅读，需安装 Chrome 插件 —— [GitHub with MathJax][1]（部分公式仍无法正常解析）。
@@ -31,15 +31,21 @@ You can read it by Typora or any other similar markdown editor.
 
 
 
-## 致谢
+## Thanks
 
 - Coursera 官网
 - @小小人_V 笔记
 - 52nlp
 
 
-
 注：由于手写笔记成稿时间较早，有所参考无法一一致谢，在此统一表示谢意！
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)][3]
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][3].
 
 [1]: https://chrome.google.com/webstore/detail/ioemnmodlmafdkllaclgeombjnmnbima
 [2]: https://typora.io/
+[3]: http://creativecommons.org/licenses/by-nc/4.0/
